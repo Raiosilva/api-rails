@@ -1,0 +1,8 @@
+en:
+  activerecord:
+    errors:
+      models:
+        facility:
+          attributes:
+            city:
+              blank: "Field City is required"
